@@ -1,3 +1,3 @@
 # DeFi-Bank
 
-DeFi eliminates the fees that banks and other financial companies charge for using their services. Individuals hold money in a secure digital wallet, can transfer funds in minutes, and anyone with an internet connection can use DeFi.
+DeFi Bank, short for "Decentralized Finance Bank," is a financial platform built on blockchain technology and smart contracts. It aims to provide a decentralized and trustless banking experience, enabling users to manage their assets, access financial services, and participate in DeFi protocols without the need for traditional banks or intermediaries.
